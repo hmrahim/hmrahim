@@ -1,6 +1,7 @@
+![I am mern stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, my name is Hossain Mohammad Rahim
 #### I am mern stack web developer
-![I am mern stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a web developer with proficiency in front-end technologies like React, JavaScript, HTML, and CSS and familiarity with back-end technologies such as NodeJS and ExpressJS.
 
