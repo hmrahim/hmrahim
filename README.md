@@ -40,9 +40,7 @@ I'm Hossain Mohammad Rahim, Full Stack Web Application Developer.
    <a href="#">
 [    <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">](https://img.shields.io/badge/TW-Tailwind-yellowgreen)
   </a>
-   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=Vue Js&logo=vuedotjs&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
-  </a>
+
   <a href="#">
     <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
