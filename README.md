@@ -25,22 +25,17 @@ I'm Hossain Mohammad Rahim, Full Stack Web Application Developer.
 </p>
 
 <h3>⚡ Technology I code with</h3>
+<h3>⚡ Technology I code with</h3>
 <p align="left">
-    
-   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=5f6a6a&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=e67e22&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=5D6D7E&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Vue Js&logo=vuedotjs&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-
-   <a href="#">
-[    <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">](https://img.shields.io/badge/TW-Tailwind-yellowgreen)
-  </a>
-
   <a href="#">
     <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
@@ -53,8 +48,16 @@ I'm Hossain Mohammad Rahim, Full Stack Web Application Developer.
    <a href="#">
     <img src ="https://img.shields.io/static/v1?message=Ajax&logo=json&labelColor=5c5c5c&color=0e6251&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=5f6a6a&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=e67e22&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=5D6D7E&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
 </p>
-
 
 <h3>🔭 My Projects</h3>
 <table>
