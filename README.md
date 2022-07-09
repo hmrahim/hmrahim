@@ -12,7 +12,7 @@ I'm Hossain Mohammad Rahim, Full Stack Web Application Developer.
    <a href="mailto:h.m.rahimnet@gmail.com" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-   <a href="javascript:void(0)">
+   <a href="https://www.linkedin.com/in/hossain-mohammad-rahim-4a39361b3/" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
 </p>
