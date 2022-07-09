@@ -57,56 +57,9 @@ I'm Hossain Mohammad Rahim, Full Stack Web Application Developer.
   </a>
 </p>
 
-<h3>🔭 My Projects</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>Project Title</b></td>
-      <td><b>Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-      <td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">Qixer (Envato<strong>Market</strong>)</a></td>
-      <td>Multi-Vendor On demand Service Marketplace and Service Finder</td>
-    </tr>
-      <tr>
-      <td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">Qixer App (Envato<strong>Market</strong>)</a></td>
-      <td>Multi-Vendor On demand Service Marketplace and Service Finder (API Development For App)</td>
-    </tr>
-    <tr>
-      <td><a href="https://ecommerce-bd.xyz" rel="nofollow">Ecommerce Web App</a></td>
-      <td>Online Shop and Management System</td>
-    </tr>
-    <tr>
-      <td><a href="https://web-journey.xyz/inventory" rel="nofollow">Inventory Web App</a></td>
-      <td>Inventory Management System</td>
-    </tr>
-    <tr>
-      <td><a href="https://cryptopostal.com/en" rel="nofollow">CryptoPostal</a></td>
-      <td>Crypto Currency Details</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.habsecurities.com" rel="nofollow">HABSL</a></td>
-      <td>One of the Best Brokerage Company in Bangladesh</td>
-    </tr>
-     <tr>
-      <td><a href="http://ihelpbd.com" rel="nofollow">iHelpBD</a></td>
-      <td>Call Center Software Company</td>
-    </tr>  
-    <tr>
-      <td>CRM and Dialer Software</td>
-      <td>Clients: IFIC Bank, BITI, Metlife Alico, Labaid, TCG, Pathao, Obhai, Biid, Shob Hobe, ShopUP etc</td>
-    </tr> 
-    <tr>
-      <td>Sales & Distribution Management</td>
-      <td>Keep tracking of sales information, inventory information, accounting information, purchase information, vendor payment, employ salary, customer information, barcode and credit card scanner, tracking the invoice & ledger</td>
-    </tr>    
-  </tbody>
-</table>
 
 <!--
-**nazmulcse11/nazmulcse11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hmrahim/hmrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
