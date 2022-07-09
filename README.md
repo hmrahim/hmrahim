@@ -24,11 +24,11 @@ I'm Hossain Mohammad Rahim, Full Stack Web Application Developer.
     <span>🔭  I’m currently working on MERN STACK</span> <br>
 </p>
 
-<h3>⚡ Technology I code with</h3>
+
 <h3>⚡ Technology I code with</h3>
 <p align="left">
   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+    [<img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">](https://img.shields.io/badge/TW-Tailwind-yellowgreen)
   </a>
    <a href="#">
     <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
