@@ -1,4 +1,4 @@
-![I am mern stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am mern stack web developer](https://i.ibb.co/sjTFPh7/Screenshot-2022-07-09-203357.png)
 
 <h3>Hi there 👋</h3>
 I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href="https://www.youtube.com/c/WebJourneybd">Youtube</a>. I spend most of the time coding client projects or creating tutorials.
