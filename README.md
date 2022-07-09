@@ -7,12 +7,6 @@ preview
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmrahim&label=Profile%20views&color=0e75b6&style=flat" alt="hmrahim" /> </p>
 
-
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bf152ababdd4e65209c7d443474997f45771385175162cbf7d6524afa9d74e8a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686d726168696d266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/bf152ababdd4e65209c7d443474997f45771385175162cbf7d6524afa9d74e8a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686d726168696d266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hmrahim" data-canonical-src="https://komarev.com/ghpvc/?username=hmrahim&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmrahim" alt="hmrahim" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hmrahim" target="blank"><img src="https://img.shields.io/twitter/follow/hmrahim?logo=twitter&style=for-the-badge" alt="hmrahim" /></a> </p>
@@ -45,27 +39,5 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmrahim&" alt="hmrahim" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bf152ababdd4e65209c7d443474997f45771385175162cbf7d6524afa9d74e8a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686d726168696d266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/bf152ababdd4e65209c7d443474997f45771385175162cbf7d6524afa9d74e8a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686d726168696d266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hmrahim" data-canonical-src="https://komarev.com/ghpvc/?username=hmrahim&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
