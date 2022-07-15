@@ -31,7 +31,7 @@ I'm Hossain Mohammad Rahim, Full Stack Web Application Developer.
 
 ![GitHub metrics](https://metrics.lecoq.io/hmrahim)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hmrahim)  
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmrahim&show_icons=true&locale=en&layout=compact" alt="hmrahim" /></p>
 
