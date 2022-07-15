@@ -45,7 +45,6 @@ I'm Hossain Mohammad Rahim, Full Stack Web Application Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmrahim)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hmrahim&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hmrahim)  
 
